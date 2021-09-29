@@ -1,0 +1,17 @@
+Apple 40
+Mango 50
+Banana 15
+Guava 35
+Papaya 50
+Avocado 40
+Milk 45
+Leeks 95
+Parsley 114
+Carrot 105
+Raddish 88
+Tamarind 140
+Onion 110
+Cabbage 95
+Broccoli 540
+Kakiri 34
+Cauliflower 105
